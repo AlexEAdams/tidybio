@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BabbleAxe&#39;s Website</title>
+    <link>/</link>
+    <description>Recent content on BabbleAxe&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>/2020/08/18/first-blog-post/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/18/first-blog-post/</guid>
+      <description>So I guess the point of this is that we can make several &amp;quot;blogs&amp;quot; or lessons that people can use to learn data science.
+print(&amp;quot;Hello world&amp;quot;)## [1] &amp;quot;Hello world&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is BabbleAxe&amp;rsquo;s walkthrough for Akshay&amp;rsquo;s video.</description>
+    </item>
+    
+  </channel>
+</rss>

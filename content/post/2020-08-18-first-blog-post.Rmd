@@ -1,0 +1,14 @@
+---
+title: First Blog Post
+author: BabbleAxe
+date: '2020-08-18'
+slug: first-blog-post
+categories: []
+tags: []
+---
+
+So I guess the point of this is that we can make several "blogs" or lessons that people can use to learn data science.
+
+```{r hello}
+print("Hello world")
+```
